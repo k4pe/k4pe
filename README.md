@@ -27,7 +27,11 @@ this.discordId = "1271135021603881080"
 module.exports = erencan;
 ```
 #
+<div align="center">
+  <img src="https://lanyard.kyrie25.me/api/1271135021603881080?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
+  </a>
+</div>
 
 # ・ Languages and Tools:
 
