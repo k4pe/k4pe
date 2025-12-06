@@ -41,7 +41,7 @@ module.exports = erencan;
 # ・ My Github Stats
 
 <div align="center">
-<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/k4pe?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Erencan?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
 </div>
 <div align="center">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=erencan&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
