@@ -8,6 +8,11 @@
   <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1499;Nachash;Orya">
 </div>
 </div>
+<div align="center">
+    <a href="https://discord.com/users/161150038888677376" target="_blank">
+      <img src="https://img.shields.io/badge/Discord%20Profile-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</div>
 
 ```js
 class luhux {
