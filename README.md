@@ -8,6 +8,11 @@
 <div align="center">
   <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=piece;erencan;eren">
 </div>
+
+<div align="center">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
+</div>
+
 </div>
 <div align="center">
     <a href="https://discord.com/users/161150038888677376" target="_blank">
@@ -27,11 +32,7 @@ this.discordId = "1271135021603881080"
 module.exports = erencan;
 ```
 #
-<div align="center">
-  <img src="https://lanyard.kyrie25.me/api/1271135021603881080?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
-  </a>
-</div>
 
 # ・ Languages and Tools:
 
