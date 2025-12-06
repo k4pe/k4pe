@@ -6,30 +6,28 @@
 </div>
 
 <div align="center">
-  <img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=erencan;k4pe;Developer">
+  <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=erencan;k4pe;Developer">
+</div>
 </div>
 
 <div align="center">
-  <!-- Gerçek ziyaretçi sayacı (canlı) - optional: komarev -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=k4pe&color=070000" /> -->
-
-  <!-- İstediğin gibi statik 140k gösteren badge -->
-  <img src="https://img.shields.io/badge/Visitors-140k-070000?style=for-the-badge&logo=github" alt="visitors"/>
+   <img width="25%" src="https://img.shields.io/badge/Visitors-140k-070000?style=for-the-badge&logo=github">
 </div>
 
-<div align="center" style="margin-top:8px">
+<div align="center">
     <a href="https://discord.com/users/161150038888677376" target="_blank">
-      <img src="https://img.shields.io/badge/Discord%20Profile-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+      <img src="https://img.shields.io/badge/Discord%20Profile-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </div>
 
+
 ```js
 class k4pe {
-  constructor() {
-    this.name = "erencan",
-    this.age = "19",
-    this.discord = "k4pe",
-    this.discordId = "161150038888677376"
+constructor(options) {
+this.name = "erencan",
+this.age = "???",
+this.discord = "k4pe",
+this.discordId = "161150038888677376"
   };
 }
 module.exports = k4pe;
