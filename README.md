@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/NashChat/">
-    <img src="https://github-readme-stats.vercel.app/api?username=NashChat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NashChat&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="NashChat"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=k4pe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4pe&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="k4pe"/>
   </a>
 </div>
 <div align="center">
@@ -10,14 +10,8 @@
 </div>
 
 <div align="center">
-   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
+   <img width="25%" src="https://komarev.com/ghpvc/?k4peutw0&color=070000">
 </div>
-<div align="center">
-    <a href="https://www.instagram.com/whiskyorya/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://open.spotify.com/intl-tr/artist/3EK2LkVkO606JSdpR3QeEg" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/1499" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
-
 
 ```js
 class luhux {
@@ -33,7 +27,7 @@ module.exports = Nachash;
 #
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/1271135021603881080?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
+  <img src="https://lanyard.kyrie25.me/api/161150038888677376?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
   </a>
 </div>
