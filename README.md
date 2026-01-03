@@ -24,7 +24,7 @@
 class luhux {
 constructor(options) {
 this.name = "eren",,
-this.discord = "user19038541337",
+this.discord = "ereeeen",
 this.discordId = "1271135021603881080"
   };
 }
