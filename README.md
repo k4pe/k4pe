@@ -23,8 +23,7 @@
 ```js
 class luhux {
 constructor(options) {
-this.name = "eren",
-this.age = 19,
+this.name = "eren",,
 this.discord = "user19038541337",
 this.discordId = "1271135021603881080"
   };
